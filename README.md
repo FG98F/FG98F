@@ -15,5 +15,5 @@
 <a href="https://chat.whatsapp.com/Ly4I2LObSvW8VgOnJjofgA" target="_blank"><img src="https://img.shields.io/badge/Grupo-%808080.svg?&style=flat-square&logo=whatsapp&logoColor=white" alt="Whatsapp"></a>
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=FG98F&show_icons=true&theme=chartreuse-dark)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=FG98F&layout=compact&theme=nightowl)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=FG98F&layout=compact&theme=chartreuse-dark)
 
