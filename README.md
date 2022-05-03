@@ -1,12 +1,5 @@
 ## Hola, soy [FG98](https://www.instagram.com/fg98._)
 
-<img align="right" alt="GIF" height="125px" src="https://media.giphy.com/media/0YLMNYmGyMfcqRX1j1/source.gif" />
-
-:page_with_curl: Actualmente estoy aprendiendo:
-- Python
-- Javascript
-
-<img align="center" fit="fill" alt="GIF" src="https://user-images.githubusercontent.com/72728486/104811327-36bc1300-582d-11eb-80f9-7c39c9b99e62.gif" />
 
 ### 📫 Sígueme en
 <a href="https://www.instagram.com/fg98._" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
